@@ -1,6 +1,7 @@
 #include<iostream>
 #include<vector>
 #include<unistd.h>
+#include<string>
 using namespace std;
 /*
 工厂方法模式 Factory Method
