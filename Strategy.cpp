@@ -63,7 +63,9 @@ public:
 private:
     PayStrategy* s=nullptr;
 };
-
+//
+//
+//
 int main(){
     // //多态实现，父类指针/引用，指向子类对象
     // PayStrategy* a=new AiliPay;
